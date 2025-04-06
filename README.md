@@ -4,7 +4,6 @@ Esta es la aplicación frontend de Air-fi, construida con Angular.
 
 ## Requisitos previos
 
-- Node.js (v16 o superior)
 - Angular CLI (v15 o superior)
 - Django (para la configuración del backend)
 
